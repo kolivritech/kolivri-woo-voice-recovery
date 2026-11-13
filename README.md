@@ -1,3 +1,5 @@
+> 🛒 **Get the Commercial Plugin + Support ($29)**: [Buy on **CodeGrape Marketplace (#58554)**](https://codegrape.com/item/kolivri-woocommerce-ai-phone-cart-recovery-cod-verifier/58554) · [Try the Live AI Phone Call Demo at **Kolivri.com**](https://kolivri.com)
+
 === Kolivri AI Phone Cart Recovery & COD Order Verifier for WooCommerce ===
 Contributors: kolivri
 Tags: woocommerce, abandoned cart, voice ai, cod verification, israel
